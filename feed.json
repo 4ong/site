@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "4ong услуги",
+    "title": "4ong services",
     "description": "",
-    "home_page_url": "https://4ong.github.io",
-    "feed_url": "https://4ong.github.io/feed.json",
+    "home_page_url": "https://4ong.github.io/site",
+    "feed_url": "https://4ong.github.io/site/feed.json",
     "user_comment": "",
     "author": {
         "name": "4ong"
