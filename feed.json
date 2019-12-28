@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "4ong услуги",
+    "description": "",
+    "home_page_url": "https://4ong.co.ua",
+    "feed_url": "https://4ong.co.ua/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "4ong"
+    },
+    "items": [
+    ]
+}
